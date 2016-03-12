@@ -1,2 +1,5 @@
 # hello-world
-Mi primer repositorio para aprender algo sobre GitHub
+Bueno, es la primera vez que utilizo github.
+Espero aprender rapido, ya que necesito utilizarlo en mi trabajo.
+Saludos,
+Jeferson.
